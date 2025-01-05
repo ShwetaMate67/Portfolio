@@ -14,7 +14,7 @@ const App = () => {
 
   const skills = {
     'Technologies': ['Java SE', 'Java EE', 'Python', 'SQL', 'MongoDB', 'React.js'],
-    'Frameworks': ['Spring Boot', 'GraphQL', 'Express.js', 'Node.js'],
+    'Frameworks': ['Spring Boot', 'SDK', 'GraphQL', 'Express.js', 'Node.js'],
     'Tools': ['Docker', 'Kubernetes', 'AWS', 'Jenkins', 'Git']
   };
 
